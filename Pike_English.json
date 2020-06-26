@@ -1,26 +1,11 @@
-[
-    {
-        "term": "bm",
-        "definition": "Black Metal",
-        "context": "Black Metal",
-        "term_plural": "",
-        "reference": "",
-        "comment": ""
+{
+    "Black Metal": {
+        "bm": "Black Metal"
     },
-    {
-        "term": "dm",
-        "definition": "Death Metal",
-        "context": "Death Metal",
-        "term_plural": "",
-        "reference": "",
-        "comment": ""
+    "Death Metal": {
+        "dm": "Death Metal"
     },
-    {
-        "term": "hm",
-        "definition": "Heavy Metal",
-        "context": "Heavy Metal",
-        "term_plural": "",
-        "reference": "",
-        "comment": ""
+    "Heavy Metal": {
+        "hm": "Heavy Metal !..!,"
     }
-]
+}
