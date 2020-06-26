@@ -1,11 +1,7 @@
 {
-    "Black Metal": {
-        "bm": "Black Metal"
-    },
-    "Death Metal": {
-        "dm": "Death Metal"
-    },
-    "Heavy Metal": {
+    "music": {
+        "bm": "Black Metal",
+        "dm": "Death Metal",
         "hm": "Heavy Metal !..!,"
     }
 }
